@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connecting_to">Verbinde mit %s</string>
+    <string name="dl_finished">Abgeschlossen</string>
+    <string name="dl_from">Lade Daten von %s</string>
+    <string name="dl_progress">Zu %1$.0f%% abgeschlossen: Datei %2$s</string>
+    <string name="download_unneeded">Download nicht nötig</string>
+    <string name="error_dl_from">Fehler beim Download von %s</string>
+    <string name="error_write">Fehler beim schreiben auf %s</string>
+    <string name="failed_connecting_to">Verbindung mit %s fehlgeschlagen</string>
+    <string name="init">Initialisiere</string>
+</resources>

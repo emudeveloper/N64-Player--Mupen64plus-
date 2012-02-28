@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">N64 Player(Free N64 Emulator)</string>
+    <string name="connecting_to">Connecting to %s</string>
+    <string name="dl_finished">Finished</string>
+    <string name="dl_from">Downloading data from %s</string>
+    <string name="dl_progress">%1$.0f%% done: file %2$s</string>
+    <string name="download_unneeded">No need to download</string>
+    <string name="error_dl_from">Error downloading data from %s</string>
+    <string name="error_write">Write error (plugged in USB Mass Storage Device mode?) %s</string>
+    <string name="failed_connecting_to">Failed connecting to %s</string>
+    <string name="init">Initializing</string>
+    <string name="prompt_get_points_title">Introduction to N64 Player</string>
+    <string name="prompt_get_points_desc">1. How to play a game?\n\nFirstly transfer the game rom to any directory of your phone\'s sdcard from your computer. Then launch N64 Player from your home screen, tap \"Choose Game\" under \"Main Menu\", browse to the directory where you transfered the game rom, tap the name of that rom to play.\n\n2. Is virtual currency needed to play N64 Player?\n\nYes. N64 Player does need virtual currency(that is called game points here) to work, though you can be rewarded many points through installing the apps listed in \"Earn Points\" under \"Main Menu\".\n\n3. How much game points does it cost each time to play a game?\n\nIt costs only 1 game points each time you play a game.\n\n4. Where to get the free game points?\n\nGo to \"Main Menu\" and tap \"Earn Points\" to load the install points list, tap any item you are interested in and install the app linked to. After the installation is completed, you will be rewarded the points labeled on the item you installed.\n\nDo you want to get the free game points now?</string>
+
+</resources>
